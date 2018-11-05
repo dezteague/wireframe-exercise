@@ -1,0 +1,21 @@
+nav {
+    display: inline-block;
+    vertical-align: right;
+    margin-block-end: 30px;
+}
+
+#heroimage {
+    display: block;
+    margin: auto;
+    margin-block-end: 30px;
+}
+
+.subbanner {
+    margin: 30px;
+}
+
+#featuredsection {
+    display: inline;
+    float: left;
+    margin: 30px;
+}
